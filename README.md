@@ -1,7 +1,7 @@
 - 👋 Hi, I’m Ferdi
 - 👀 I’m interested in Mobile Development
 - 🌱 I’m currently learning Flutter 
-- 📫 How to reach me : ferdiriansyah21@yahoo.com
+- 📫 How to reach me : ferdi.rs17@gmail.com
       
 
 <!---
